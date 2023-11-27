@@ -7,7 +7,7 @@ de conhecimentos em Docker e Kubernetes, dentre outras tecnologias e áreas de c
 # EXPERIÊNCIA PROFISSIONAL
 
 09/2021 – 30/10/2022 Lisboa, Portugal 
-ADMINISTRADOR DE REDES OLISIPO 
+## ADMINISTRADOR DE REDES OLISIPO 
 Monitorização da rede
 Gerenciamento de Incidentes através das plataformas Nexus e ITSM, realizando análise e investigações de incidentes, 
 configurações, RFO, agendamento de intervenções Programadas de clientes nacionais e internacionais. 
