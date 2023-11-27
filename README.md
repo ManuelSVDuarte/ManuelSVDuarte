@@ -1,9 +1,15 @@
+
+
 # Sobre mim
 Profissional da área de Tecnologia da Informação com diversos cursos extracurriculares/certificações voltados para 
 infraestrutura. Conhecimentos de desenvolvimento nas linguagens de programação Python, C++ e JavaScript, além de 
 possuir conhecimento em HTML, CSS e tecnologia de desenvolvimento ágil.
 Conhecimentos sobre cultura DevOps, automação de infraestrutura e virtualização utilizando VMWare, VirtualBox além 
 de conhecimentos em Docker e Kubernetes, dentre outras tecnologias e áreas de conhecimento.
+
+**Linkedin: <https://www.linkedin.com/in/manuel-sv-duarte/>**
+
+
 # EXPERIÊNCIA PROFISSIONAL
 
 09/2021 – 30/10/2022 Lisboa, Portugal 
@@ -31,28 +37,28 @@ outras equipes (equipes de segurança da informação, redes, desenvolvimento e 
 software e auxilio ao usuário em geral.
 
 # COMPETÊNCIAS LINGUÍSTICAS 
-Inglês : Intermediário 
+**Inglês : Intermediário**
 
 # EDUCAÇÃO E FORMAÇÃO
 
 01/08/2016 – 14/07/2021 Rio de janeiro, Brasil 
 ### GRADUAÇÃO EM ENGENHARIA DA COMPUTAÇÃO Unicarioca 
-Sítio Web https://www.unicarioca.edu.br/
+Sítio Web <https://www.unicarioca.edu.br/>
 
 11/05/2021 – 16/05/2021 
 ### KUBERNETES BOOTCAMP Formação KubeDev 
 
 24/05/2021 – 28/05/2021 
 ### SEGURANÇA DA INFORMAÇÃO COM PYTHON Digital Innovation One Inc. 
-Sítio Web https://certificates.digitalinnovation.one/F03BDFA3
+Sítio Web <https://certificates.digitalinnovation.one/F03BDFA3>
 
 06/12/2020 – 16/01/2021 Rio de janeiro, Brasil 
 ### ADMINISTRAÇÃO DE SISTEMAS LINUX. Escola Superior De Redes 
-Sítio Web http://esr.rnp.br/certificados/cdc-ead-1078-20
+Sítio Web <http://esr.rnp.br/certificados/cdc-ead-1078-20>
 
 08/09/2019 – 18/10/2019 Rio de janeiro, Brasil 
 ### FUNDAMENTOS DE SCRUM Escola Superior De Redes 
-Sítio Web https://esr.rnp.br/certificados/cdc-rio-0201-19
+Sítio Web <https://esr.rnp.br/certificados/cdc-rio-0201-19>
 
 17/07/2019 – 15/08/2019 
 ### INTRODUCTION TO CYBERSECURITY Cisco Networking Academy 
@@ -60,7 +66,7 @@ Sítio Web https://esr.rnp.br/certificados/cdc-rio-0201-19
 12/05/2021 – 17/05/2021 
 ### DESENVOLVIMENTO PARA INTERNET E BANCO DE DADOS COM PYTHON E DJANGO Digital Innovation One 
 Inc. 
-Sítio Web https://certificates.digitalinnovation.one/93D2536A
+Sítio Web <https://certificates.digitalinnovation.one/93D2536A>
 
 # COMPETÊNCIAS DIGITAIS 
 
