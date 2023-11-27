@@ -1,7 +1,7 @@
 
 
 # Sobre mim
-Passei um tempo na Irlanda estudando e trabalhando com o objetivo de melhorar o inglês, possuo diversos cursos extracurriculares/certificações voltados para infraestrutura e desenvolvimento. Atualmente estou procurando trabalho como desenvolvedor, possuo conhecimento nas linguagens de programação Python, C++ e JavaScript, além de possuir conhecimento em HTML, CSS e tecnologia de desenvolvimento ágil. Tenho experiencia com a linguagem Python, voltada para IA com CUDA e TensorFlow.
+Passei um tempo na Irlanda estudando e trabalhando com o objetivo de melhorar o inglês, possuo diversos cursos extracurriculares/certificações voltados para infraestrutura e desenvolvimento. Atualmente estou procurando trabalho como desenvolvedor, possuo conhecimento nas linguagens de programação Python, C++ e JavaScript, além de possuir conhecimento em HTML, CSS e tecnologia de desenvolvimento ágil. Experiência profissional com a linguagem Python, voltada para IA com CUDA e TensorFlow.
 Conhecimentos sobre cultura DevOps, automação de infraestrutura e virtualização utilizando VMWare, VirtualBox além de conhecimentos em Docker e Kubernetes, dentre outras tecnologias e áreas de conhecimento.
 
 **Linkedin: <https://www.linkedin.com/in/manuel-sv-duarte/>**
